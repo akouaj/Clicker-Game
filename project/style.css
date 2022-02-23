@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+html{
+    height: 100%;
+}
+h1{
+    color: whitesmoke;
+}
+
+body
+{
+    display: flex;
+    height : 100%;
+
+
+}
+.left_container {
+    flex:2;
+    background-color: rgb(80, 75, 75);
+    background-image: url(https://fyre.cdn.sewest.net/maple/608afaa6906368001312a76a/social_share-i7TZ7xcWN.png);
+
+}
+.right_container {
+    flex: 1;
+    max-width: 300px;
+    background-color: rgb(37, 37, 36);
+}
+.PO{
+    color: white;
+}
+.GPS{
+    color: white;
+}
+.baby_groot {
+    height: 50px;
+    width: 50px;
+}
+.rocket {
+    height: 5px;
+    width: 5px; 
+    text-align: center;
+}
+.starlord {
+    height: 50px;
+    width: 50px; 
+
+}
+.click {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    display: flex;
+    margin: auto;
+}
